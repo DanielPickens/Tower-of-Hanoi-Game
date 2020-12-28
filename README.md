@@ -1,5 +1,5 @@
 # Tower-of-Hanoi-Game
-computes the demonstration of the tower of hanoi game from the numdiscs function. 
+This computes a demonstration of the tower of hanoi game from the numdiscs function. 
 
 
  we are reading the number of discs using ‘cnumdiscs’ variable. We are adding the function to Perform the movetower() function by passing ‘numdiscs’, 1, 3, 2 variable values as an argument.
